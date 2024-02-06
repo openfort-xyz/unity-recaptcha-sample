@@ -20,7 +20,7 @@ The sample includes:
     <img
       width="100%"
       height="100%"
-      src="https://blog-cms.openfort.xyz/uploads/unity_recaptcha_sample_workflow_77076e1c3d.png?updated_at=2024-02-02T14:59:17.378Z"
+      src="https://blog-cms.openfort.xyz/uploads/unity_recaptcha_sample_workflow_9d3da01894.png?updated_at=2024-02-06T08:35:17.086Z"
       alt='Openfort Unity reCAPTCHA V3 Sample Workflow'
     />
     </div>
