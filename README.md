@@ -1,6 +1,6 @@
 # Openfort Unity reCAPTCHA V3 Sample
 
-## [Try it live!](https://dpradell-dev.github.io/unity-recaptcha-webgl-build/)
+## [Try it live!](https://openfort-xyz.github.io/unity-recaptcha-sample/build)
   
 ## Overview
 This is a sample project to showcase the Openfort integration with [Google reCAPTCHA V3](https://developers.google.com/recaptcha/docs/v3), a system to help you protect your sites from fraudulent activities, spam, and abuse. In this sample, we will activate reCAPTCHA verification every time the user tries to perform a key action like authenticating or minting an NFT. 
